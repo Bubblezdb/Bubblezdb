@@ -1,4 +1,6 @@
-![profle](https://user-images.githubusercontent.com/68390087/91794770-dfa10300-ebe9-11ea-8ab1-1adcf06482ef.jpg)
+![background](https://user-images.githubusercontent.com/68390087/95216662-55d3ef00-07c0-11eb-9d55-920f280622d6.jpg)
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/Bubblezdb/Bubblezdb/master/wave.gif" width="30px">
 
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubblezdb)](https://github.com/bubblezdb/github-readme-stats)
