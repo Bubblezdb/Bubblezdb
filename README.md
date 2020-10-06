@@ -8,7 +8,7 @@ My name is Desi Blaney and I am an aspiring Junior Software Engineer. I am passi
 - You can find me on [![LinkedIn][2.2]][2].
 
 <br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubblezdb)(https://github.com/bubblezdb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubblezdb)](https://github.com/bubblezdb/github-readme-stats)
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
